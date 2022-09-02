@@ -1,0 +1,17 @@
+mat-form-field{
+    width: 100%;
+}
+
+
+#btnsubmit{
+    border-radius: 30px 30px 30px 30px;
+    background-color: aqua;
+}
+#adduser{
+    background-color: aqua;
+}
+
+#btnclose{
+    border-radius: 30px 30px 30px 30px;
+}
+

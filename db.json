@@ -1,0 +1,30 @@
+{
+  "userlist": [
+    {
+      "name": "prasad ",
+      "email": "prasad@gmail.com",
+      "gender": "male",
+      "address": "sss",
+      "date": "2022-09-29T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "name": "padole",
+      "email": "padole@gmail.com",
+      "gender": "male",
+      "address": "MH",
+      "date": "2022-09-28T18:30:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
